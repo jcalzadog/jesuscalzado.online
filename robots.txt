@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://jesuscalzado.online/sitemap.xml
+Sitemap: https://jcalzadog.github.io/jesuscalzado.online/sitemap.xml
